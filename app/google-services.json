@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "851049472913",
+    "project_id": "taskmanagementapp-28cb4",
+    "storage_bucket": "taskmanagementapp-28cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851049472913:android:2fc31c71c2fde8c7bd7030",
+        "android_client_info": {
+          "package_name": "com.example.project73"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851049472913-qp1j9ui7nuerfvera4dhlh9qpv0fqtv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project73",
+            "certificate_hash": "e709b083cc9420a3a2b7f2045f47c9fa85c250b6"
+          }
+        },
+        {
+          "client_id": "851049472913-9i7rj4rfv59c0usamiksag0rnruab25t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZ_MJXnCkHSFrSMg8f_avYq2-maB2Ka8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851049472913-9i7rj4rfv59c0usamiksag0rnruab25t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851049472913:android:f1bc9b0fe9e93e9ebd7030",
+        "android_client_info": {
+          "package_name": "com.example.simplified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851049472913-9i7rj4rfv59c0usamiksag0rnruab25t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZ_MJXnCkHSFrSMg8f_avYq2-maB2Ka8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851049472913-9i7rj4rfv59c0usamiksag0rnruab25t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
